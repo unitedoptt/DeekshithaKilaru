@@ -718,7 +718,7 @@ to {
 }
 .utf-about-dtl ul li::before {
   content: "\2022";
-  color: red;
+  color: #77894d;
   font-weight: bold;
   display: inline-block; 
   width: 1em;
